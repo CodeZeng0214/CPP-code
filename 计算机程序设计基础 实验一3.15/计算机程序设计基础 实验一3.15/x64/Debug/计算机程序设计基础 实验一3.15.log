@@ -1,0 +1,6 @@
+﻿  源.cpp
+D:\vs2022\chengxu\计算机程序设计基础 实验一3.15\计算机程序设计基础 实验一3.15\源.cpp(2,8): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+D:\vs2022\chengxu\计算机程序设计基础 实验一3.15\计算机程序设计基础 实验一3.15\源.cpp(2,8): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\vs2022\vsanzhuangbao\community\VC\Tools\MSVC\14.30.30705\include\sal.h(2361,12): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\vs2022\vsanzhuangbao\community\VC\Tools\MSVC\14.30.30705\include\sal.h(2361,12): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\vs2022\chengxu\计算机程序设计基础 实验一3.15\计算机程序设计基础 实验一3.15\源.cpp(8,2): error C2144: 语法错误:“float”的前面应有“;”

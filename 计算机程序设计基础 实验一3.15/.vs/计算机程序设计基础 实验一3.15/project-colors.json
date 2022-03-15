@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "29de3687-30d6-4c61-9cf4-a6af116fbb83": {
+      "ProjectGuid": "29de3687-30d6-4c61-9cf4-a6af116fbb83",
+      "DisplayName": "计算机程序设计基础 实验一3.15",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
